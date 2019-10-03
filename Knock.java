@@ -1,3 +1,4 @@
+//Knock Knock, Number 6
 import java.util.Scanner;
 public class Knock{
     public static void main(String args[]){
