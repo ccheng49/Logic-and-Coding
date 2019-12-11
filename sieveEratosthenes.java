@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class eratosthenes
+public class sieveEratosthenes
 {
     public static boolean[] sieve = new boolean [1000];
     
